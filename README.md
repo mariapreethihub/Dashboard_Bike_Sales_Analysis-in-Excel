@@ -93,11 +93,11 @@
 
 3.**Profession and Education :**
 
-       * The data highlights that customers in professional roles have the highest bike purchase rates,
-         followed by those in Skilled Manual. 
+       * The data highlights that customers in professional roles have the highest bike purchase 
+         rates,followed by those in Skilled Manual. 
 
-       * In terms of education, customers with a Bachelors degree lead the purchase, followed by partial 
-         college and graduate.
+       * In terms of education, customers with a Bachelors degree lead the purchase, followed by 
+         partial college and graduate.
     
 4. **Children and bike purchase:**
 
