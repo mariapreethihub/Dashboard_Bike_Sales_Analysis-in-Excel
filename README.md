@@ -4,7 +4,7 @@
 
 1.Project Overview
 
-2.Data Source
+2.Data Source 
 
 3.Tools
 
@@ -20,7 +20,7 @@
 
 **Project Overview**   This project involves the creation of an interactive dashboard using Excel to analyze bike sales data. The analysis focuses on perpective of customers to provide actionable insights that support strategic decision-making. 
 
-**Datasource :**
+**Datasource :** Bike sales data.xlx
 
 **Tools:** Microsoft Excel
 
@@ -40,7 +40,7 @@ The main analysis was conducted through pivot tables to visualize key insights.T
 
 1.**Number of customer purchased bike:** 
 
-<img width="286" alt="image" src="https://github.com/user-attachments/assets/d4103f02-e6cd-4ca8-ab43-32d580957b4d">
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/d47cf680-f9f5-407a-b4ba-303d1066dc45">
 
 2.**Average income and bike purchase:**
 
@@ -73,51 +73,55 @@ A simple interactive dashboard report was created using Pivot Charts.Slicers are
 
 1.**Income Distribution**
    
-   * The majority of bike buyers have an average income between $55,000 and $60,000.
+       * The majority of bike buyers have an average income between $55,000 and $60,000.
     
-   * Higher income levels generally correlate with a higher likelihood of purchasing a bike.
+       * Higher income levels generally correlate with a higher likelihood of purchasing a bike.
 
 2.**Age Distribution:**
    
-   *The age group 35-65 has the highest bike purchase rate.
+       * The age group 35-65 has the highest bike purchase rate.
    
-   *Age group below 35 and above 65 show relatively lower bike purchase. 
+       * Age group below 35 and above 65 show relatively lower bike purchase. 
 
 3.**Profession and Education :**
 
-   *The data highlights that customers in professional roles have the highest bike purchase rates, followed by those in Skilled Manual. 
+       * The data highlights that customers in professional roles have the highest bike purchase rates, followed by those in 
+         Skilled Manual. 
 
-   *In terms of education, customers with a Bachelors degree lead the purchase, followed by partial college and graduate.
+       * In terms of education, customers with a Bachelors degree lead the purchase, followed by partial college and graduate.
     
 4. **Children and bike purchase:**
 
-   *Couples with kids are less likely to purchase bike.
+       * Couples with kids are less likely to purchase bike.
 
 5.**Commute Distance:**
 
-    * Customers with least commute have more bikes.
+       * Customers with least commute have more bikes.
     
-    * Males have commuted more distance than female.
+       * Males have commuted more distance than female.
 
 6.**Marital Status:**
 
-    * Single individuals are more likely to purchase bikes compared to married individuals.
+       * Single individuals are more likely to purchase bikes compared to married individuals.
     
 7.**Home Ownership:**
 
-    * Homeowners are more likely to buy bikes compared to other category.
+       * Homeowners are more likely to buy bikes compared to other category.
     
 8.**Regional Trends:**
 
-    * North America is leading in the market against Pacific and Europe.
+       * North America is leading in the market against Pacific and Europe.
 
-**Recommendation**
+**Recommendation:**
 
 Based on the above insights,the following were recommended:
 
 1.Focus marketing and promotion on individual with salary above $55,000.
+
 2.Focus on age group between 35 -65 and on people who usually need to travel shorter distance.
+
 3.North American market should be on priority as it has more customers.
+
 4.Individual owns a house and married are more likely to purchase bike.
 
 
