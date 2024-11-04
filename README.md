@@ -71,8 +71,8 @@
 
 **Data Visualization :**
 
-     A simple interactive dashboard report was created using Pivot Charts.Slicers are added to filter dashboard by 
-     region,education,marital status, owns car and house and education. 
+     A simple interactive dashboard report was created using Pivot Charts.Slicers are added to 
+     filter dashboard by region,education,marital status, owns car and house and education. 
      The final outlook of the dashboard is as under:
 
 <img width="421" alt="image" src="https://github.com/user-attachments/assets/dcaa975f-ff17-4c1f-8353-53c63a2ecaec">
