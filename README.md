@@ -38,9 +38,9 @@ Data cleaning is one of the most important aspects of data processing. It involv
 
 The main analysis was conducted through pivot tables to visualize key insights.The dashboard includes the following pivot tables:
 
-1.**Percentage of customer purchased bike:** 
+1.**Number of customer purchased bike:** 
 
-<img width="369" alt="image" src="https://github.com/user-attachments/assets/0451605f-0965-4566-8cb7-8fde0f9e32fb">
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/d4103f02-e6cd-4ca8-ab43-32d580957b4d">
 
 2.**Average income and bike purchase:**
 
@@ -67,15 +67,15 @@ The main analysis was conducted through pivot tables to visualize key insights.T
 
 A simple interactive dashboard report was created using Pivot Charts.Slicers are added to filter dashboard by region,education,marital status, owns car and house and education. The final outlook of the dashboard is as under:
 
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/0af312d8-c62a-4e7b-a48e-f0a45940d2b0">
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/dcaa975f-ff17-4c1f-8353-53c63a2ecaec">
 
 **Key findings and insight:**
 
 1.**Income Distribution**
    
-    * The majority of bike buyers have an average income between $55,000 and $60,000.
+   * The majority of bike buyers have an average income between $55,000 and $60,000.
     
-  	* Higher income levels generally correlate with a higher likelihood of purchasing a bike.
+   * Higher income levels generally correlate with a higher likelihood of purchasing a bike.
 
 2.**Age Distribution:**
    
@@ -95,29 +95,30 @@ A simple interactive dashboard report was created using Pivot Charts.Slicers are
 
 5.**Commute Distance:**
 
-    * Customers with shorter commute distances are more likely to purchase bikes.
+    * Customers with least commute have more bikes.
+    
     * Males have commuted more distance than female.
 
 6.**Marital Status:**
 
-    * Married individuals are more likely to purchase bikes compared to single individuals.
+    * Single individuals are more likely to purchase bikes compared to married individuals.
     
-4.
-5.**Home Ownership:**
+7.**Home Ownership:**
 
-    * Homeowners are more likely to buy bikes compared to renters.
+    * Homeowners are more likely to buy bikes compared to other category.
     
-    * The number of cars owned significantly impacts the likelihood of bike purchase.
+8.**Regional Trends:**
 
-6.
-7.**Regional Trends:**
+    * North America is leading in the market against Pacific and Europe.
 
-    * Certain regions have higher bike sales, possibly due to better infrastructure, weather, or cultural factors.
-    
-    * Urban areas show higher bike sales compared to rural areas.
+**Recommendation**
 
-8.
+Based on the above insights,the following were recommended:
 
+1.Focus marketing and promotion on individual with salary above $55,000.
+2.Focus on age group between 35 -65 and on people who usually need to travel shorter distance.
+3.North American market should be on priority as it has more customers.
+4.Individual owns a house and married are more likely to purchase bike.
 
 
 
